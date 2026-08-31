@@ -1,19 +1,11 @@
-# ai-lifecycle-100
+# ai-lifecycle-100 — datasets/models mapped onto a lifecycle
 
-100 datasets, models, domains, and architectures mapped onto Sales + ML lifecycle steps. Starter kit with catalog, flows, and notebook cells.
+Starter kit that maps datasets, models, domains, and architectures onto **sales + ML lifecycle** steps.
 
-This repository is **original work** on this account. It is kept for provenance.
+What is actually in the tree today: `AGENT_STACK.md` (seven agent repos pulled from a Vishnu.ai public pack, tagged to ML stage 9 / sales stage 8) and a LICENSE. The “100 items” catalog is the intent of the repo; the committed files are the agent-stack note plus license.
 
-It is **not** current research. Featured work:
+Related: [200-dataset-websites](https://github.com/ahmaddroobi99/200-dataset-websites).
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+---
+Related: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
 
-## Language
-
-source
-
-## Year
-
-2026
