@@ -1,9 +1,19 @@
 # ai-lifecycle-100
 
-Catalog mapping datasets/models onto sales + ML lifecycle steps. A list, not a trained model.
+100 datasets, models, domains, and architectures mapped onto Sales + ML lifecycle steps. Starter kit with catalog, flows, and notebook cells.
 
-```bash
-# Inspect the tree first — several of these repos are early-stage.
-```
+This repository is **original work** on this account. It is kept for provenance.
 
-Featured work lives in [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) and the pinned originals on [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99).
+It is **not** current research. Featured work:
+
+- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
+- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
+- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+
+## Language
+
+source
+
+## Year
+
+2026
